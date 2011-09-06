@@ -1,0 +1,11 @@
+h1#header {
+  font-family: 'Times New Roman';
+}
+
+p {
+  margin-right: 100px;
+}
+
+h1#header, h2#footer {
+  color: #ff0000  
+}

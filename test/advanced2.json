@@ -1,0 +1,12 @@
+{
+  "h1#header": {
+    "font-family": "Times New Roman",
+    "color": "#ff0000"
+  },
+  "p": {
+    "margin-right": "100px"
+  },
+  "h2#footer": {
+    "color": "#ff0000"
+  }
+}

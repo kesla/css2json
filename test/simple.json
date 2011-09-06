@@ -1,0 +1,8 @@
+{
+  "day.weekday hour.7am minute.30":
+    {
+     "event-name": "cleanup",
+     "module": "clean.js",
+     "broadcast": "127.0.0.1:1337"
+    }
+}
