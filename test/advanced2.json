@@ -1,6 +1,6 @@
 {
   "h1#header": {
-    "font-family": "Times New Roman",
+    "font-family": "'Times New Roman'",
     "color": "#ff0000"
   },
   "p": {
