@@ -11,9 +11,6 @@
   "engines": {
     "node": "*"
   },
-  "dependencies": {
-    "underscore": "~1.1.7"
-  },
   "devDependencies": {
     "json-san": "0.0.2"
   }
