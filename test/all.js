@@ -11,6 +11,5 @@ bases.forEach(function(base){
   var css = fs.readFileSync(basePath + '.css', 'utf8'),
      json = JSON2.parse(fs.readFileSync(basePath + '.json', 'utf8'));
 
-  assert.deepEqual(css2json.parse(css), json);
-
+  assert.deepEqual(css2json(css), json);
 });

@@ -12,7 +12,7 @@ npm install css2json
 
 ```
 var css2json = require('css2json');
-var json = css2json.parse(css);
+var json = css2json(css);
 ```
 
 ## Example
