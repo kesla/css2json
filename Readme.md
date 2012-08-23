@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/kesla/css2json.png)](http://travis-ci.org/kesla/css2json)
 # Css2json
 
 Css2json transform CSS to JSON.
