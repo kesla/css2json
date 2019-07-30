@@ -8,10 +8,8 @@
     "url": "git://github.com/kesla/css2json.git"
   },
   "main": "./lib/css2json.js",
-  "engines": {
-    "node": "*"
-  },
-  "devDependencies": {
-    "json-san": "0.0.2"
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/all.js"
   }
 }
