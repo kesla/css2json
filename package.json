@@ -2,7 +2,7 @@
   "author": "David Björklund <david.bjorklund@gmail.com> (http://davidbjorklund.se)",
   "name": "css2json",
   "description": "Parse css to json.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/kesla/css2json.git"
