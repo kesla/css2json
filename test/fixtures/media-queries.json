@@ -1,0 +1,10 @@
+{
+  "@media print": {
+	  "code[class*=\"language-\"]": {
+		  "text-shadow": "none"
+    },
+    "pre[class*=\"language-\"]": {
+		  "text-shadow": "none"
+    }
+  }
+}

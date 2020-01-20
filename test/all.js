@@ -3,7 +3,7 @@ var assert = require('assert'),
     fs = require('fs'),
     path = require('path');
 
-var bases = ['simple', 'advanced', 'advanced2', 'comments'];
+var bases = ['simple', 'advanced', 'advanced2', 'comments', 'media-queries'];
 
 bases.forEach(function(base){
   var basePath = path.join(__dirname, "fixtures", base);
